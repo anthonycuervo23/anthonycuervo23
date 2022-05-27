@@ -19,4 +19,80 @@ I am a mobile app developer from Spain
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 8 Contributions in the Year 2022
+ > 
+> 📦 400.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 40 Public Repositories 
+ > 
+> 🔑 19 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    29 commits     ███████░░░░░░░░░░░░░░░░░░   28.43% 
+🌆 Daytime    34 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌃 Evening    39 commits     █████████░░░░░░░░░░░░░░░░   38.24% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
+Tuesday      8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
+Wednesday    12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Thursday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
+Friday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+Saturday     31 commits     ███████░░░░░░░░░░░░░░░░░░   30.39% 
+Sunday       20 commits     █████░░░░░░░░░░░░░░░░░░░░   19.61%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Dart** 
+
+```text
+Dart                     22 repos            ██████████░░░░░░░░░░░░░░░   41.51% 
+JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   22.64% 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.55% 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
+SCSS                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.66%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/anthonycuervo23/anthonycuervo23/main/charts/bar_graph.png) 
+
+
+ Last Updated on 27/05/2022 07:18:12 UTC
 <!--END_SECTION:waka-->
