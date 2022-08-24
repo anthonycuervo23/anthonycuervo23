@@ -68,19 +68,16 @@ Sunday       14 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Dart                     17 mins             █████████████████░░░░░░░░   70.32% 
-TypeScript               6 mins              ███████░░░░░░░░░░░░░░░░░░   27.97% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kabod_app                17 mins             █████████████████░░░░░░░░   70.32% 
-kabodAPI                 7 mins              ███████░░░░░░░░░░░░░░░░░░   29.68%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -101,5 +98,5 @@ SCSS                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anthonycuervo23/anthonycuervo23/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/08/2022 18:50:23 UTC
+ Last Updated on 24/08/2022 18:58:19 UTC
 <!--END_SECTION:waka-->
