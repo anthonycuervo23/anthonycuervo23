@@ -25,7 +25,7 @@ I am a mobile app developer from Spain
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -68,16 +68,18 @@ Sunday       14 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 mins              ████████████░░░░░░░░░░░░░   51.07% 
+Dart                     5 mins              ████████████░░░░░░░░░░░░░   48.93%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kabodAPI                 5 mins              ████████████░░░░░░░░░░░░░   51.07% 
+kabod_app                5 mins              ████████████░░░░░░░░░░░░░   48.93%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      10 mins             █████████████████████████   100.0%
 
 ```
 
@@ -98,5 +100,5 @@ SCSS                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anthonycuervo23/anthonycuervo23/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/08/2022 18:58:19 UTC
+ Last Updated on 26/08/2022 18:52:02 UTC
 <!--END_SECTION:waka-->
