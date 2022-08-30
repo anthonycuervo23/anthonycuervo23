@@ -23,7 +23,7 @@ I am a mobile app developer from Spain
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -104,5 +104,5 @@ SCSS                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anthonycuervo23/anthonycuervo23/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/08/2022 18:52:35 UTC
+ Last Updated on 30/08/2022 18:50:13 UTC
 <!--END_SECTION:waka-->
