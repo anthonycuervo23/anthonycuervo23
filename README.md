@@ -68,16 +68,20 @@ Sunday       5 commits      █████████░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     29 mins             █████████████░░░░░░░░░░░░   52.82% 
+YAML                     21 mins             █████████░░░░░░░░░░░░░░░░   38.08% 
+Groovy                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87% 
+Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  56 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kabod_app                56 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      56 mins             █████████████████████████   100.0%
 
 ```
 
@@ -98,5 +102,5 @@ SCSS                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anthonycuervo23/anthonycuervo23/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/10/2022 19:01:47 UTC
+ Last Updated on 04/10/2022 19:03:43 UTC
 <!--END_SECTION:waka-->
