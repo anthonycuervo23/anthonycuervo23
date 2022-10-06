@@ -29,13 +29,13 @@ I am a mobile app developer from Spain
 
 **🐱 My GitHub Data** 
 
-> 🏆 15 Contributions in the Year 2022
+> 🏆 16 Contributions in the Year 2022
  > 
-> 📦 404.7 kB Used in GitHub's Storage 
+> 📦 511.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 19 Private Repositories  
  > 
@@ -88,11 +88,11 @@ Mac                      56 mins             ███████████�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     22 repos            ██████████░░░░░░░░░░░░░░░   40.0% 
-JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.82% 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
-SCSS                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.45%
+Dart                     22 repos            █████████░░░░░░░░░░░░░░░░   39.29% 
+JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.36%
 
 ```
 
@@ -102,5 +102,5 @@ SCSS                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anthonycuervo23/anthonycuervo23/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/10/2022 19:05:31 UTC
+ Last Updated on 06/10/2022 19:03:39 UTC
 <!--END_SECTION:waka-->
