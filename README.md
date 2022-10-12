@@ -23,13 +23,13 @@ I am a mobile app developer from Spain
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 16 Contributions in the Year 2022
+> 🏆 17 Contributions in the Year 2022
  > 
 > 📦 511.4 kB Used in GitHub's Storage 
  > 
@@ -68,18 +68,18 @@ Sunday       5 commits      █████████░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Dart                     3 hrs 1 min         ████████████████████████░   99.46% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
+Dart                     4 hrs 57 mins       █████████████████████████   99.67% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
 🔥 Editors: 
-VS Code                  3 hrs 2 mins        █████████████████████████   100.0%
+VS Code                  4 hrs 58 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-kabod_app                3 hrs 2 mins        █████████████████████████   99.85% 
-flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+kabod_app                4 hrs 57 mins       █████████████████████████   99.59% 
+flutter                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
 
 💻 Operating System: 
-Mac                      3 hrs 2 mins        █████████████████████████   100.0%
+Mac                      4 hrs 58 mins       █████████████████████████   100.0%
 
 ```
 
@@ -100,5 +100,5 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anthonycuervo23/anthonycuervo23/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/10/2022 19:00:13 UTC
+ Last Updated on 12/10/2022 19:02:11 UTC
 <!--END_SECTION:waka-->
