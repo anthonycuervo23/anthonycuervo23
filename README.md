@@ -5,7 +5,7 @@
 
 
 I am a mobile app developer from Spain
-- 🔭 Working on multiple frontend and backend project using Flutter and Nodejs
+- 🔭 Working on multiple frontend and backend project using Flutter, Swift, Kotlin and Nodejs
 - 🌱 Learning design patterns in depth
 <br>
 
